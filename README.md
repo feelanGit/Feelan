@@ -1,4 +1,4 @@
-# Feelan
+# [Feelan](https://feelan.org)
 
 ## A Decentralised AI
 
